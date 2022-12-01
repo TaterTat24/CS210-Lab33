@@ -16,6 +16,7 @@ int main() {
     // the least significant bit. The function should return an int value
     // of 1 if the chosen bit is a 1, and 0 if it is a 0.
     
+
     // Create some integer variables and use the print_bits() function to
     // test your check_bit() function.
 
