@@ -1,6 +1,6 @@
 /** lab33functs.h
 * ===========================================================
-* Name: FIRST LAST, DATE
+* Name: Benjamin Tat
 * Section: SECTION
 * Project: Lab 33
 * Documentation: DOC STATEMENT
